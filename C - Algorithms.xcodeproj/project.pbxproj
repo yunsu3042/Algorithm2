@@ -9,17 +9,23 @@
 /* Begin PBXBuildFile section */
 		E62066AF2042780200A8D0F6 /* C++ 2178.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E62066AE2042780200A8D0F6 /* C++ 2178.cpp */; };
 		E62066B1204292E000A8D0F6 /* C++ 2178-refactor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E62066B0204292E000A8D0F6 /* C++ 2178-refactor.cpp */; };
+		E62066B42043D8C800A8D0F6 /* 2606.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E62066B32043D8C800A8D0F6 /* 2606.cpp */; };
+		E62066B62043EAE100A8D0F6 /* 2667.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E62066B52043EAE100A8D0F6 /* 2667.cpp */; };
+		E62066CB204529E700A8D0F6 /* 10216.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E62066CA204529E700A8D0F6 /* 10216.cpp */; };
+		E62066CE20458CFA00A8D0F6 /* 10216-union.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E62066CC20458CFA00A8D0F6 /* 10216-union.cpp */; };
+		E62066D12049483500A8D0F6 /* graph.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E62066D02049483500A8D0F6 /* graph.cpp */; };
 		E623EF5F2031B1340025C701 /* queue.c in Sources */ = {isa = PBXBuildFile; fileRef = E623EF5E2031B1340025C701 /* queue.c */; };
 		E623EF622031C0AE0025C701 /* 11866.c in Sources */ = {isa = PBXBuildFile; fileRef = E623EF602031C0AE0025C701 /* 11866.c */; };
 		E623EF682032D3590025C701 /* 5052.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E623EF672032D3590025C701 /* 5052.cpp */; };
+		E6575CD1205172AF0084058D /* C++ hackerearth prison break.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6575CD0205172AF0084058D /* C++ hackerearth prison break.cpp */; };
+		E6575CD32052323D0084058D /* C++ hackerearth prison break2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6575CD22052323D0084058D /* C++ hackerearth prison break2.cpp */; };
+		E6575CD52052417B0084058D /* C++ hackerearth prison break3- recur.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6575CD42052417B0084058D /* C++ hackerearth prison break3- recur.cpp */; };
+		E6622D3A204D243800760343 /* C++ hackearth BFS1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6622D39204D243800760343 /* C++ hackearth BFS1.cpp */; };
+		E6622D3C204D2F3E00760343 /* C++ hackerearth flight plan.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6622D3B204D2F3E00760343 /* C++ hackerearth flight plan.cpp */; };
 		E6B56B992025EFC700A7D714 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56B982025EFC700A7D714 /* main.c */; };
 		E6B56C40202D401A00A7D714 /* stack.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C3F202D401A00A7D714 /* stack.c */; };
 		E6B56C42202D4C7200A7D714 /* test.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C41202D4C7200A7D714 /* test.c */; };
 		E6B56C44202D70DD00A7D714 /* practical_stack.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C43202D70DD00A7D714 /* practical_stack.c */; };
-		E6B56C47202D736000A7D714 /* refactoring2.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C46202D736000A7D714 /* refactoring2.c */; };
-		E6B56C49202D736500A7D714 /* refactoring.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C48202D736500A7D714 /* refactoring.c */; };
-		E6B56C4B202D736A00A7D714 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C4A202D736A00A7D714 /* main.c */; };
-		E6B56C4D202D736E00A7D714 /* test.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C4C202D736E00A7D714 /* test.c */; };
 		E6B56C7A203017F800A7D714 /* 1874.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C79203017F800A7D714 /* 1874.c */; };
 		E6B56C7C203020AB00A7D714 /* practice.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B56C7B203020AB00A7D714 /* practice.c */; };
 		E6B9FCC32034532C00D10AF1 /* binary search.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B9FCC22034532C00D10AF1 /* binary search.c */; };
@@ -34,6 +40,13 @@
 		E6B9FCF4203D327E00D10AF1 /* C++ 7576.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6B9FCF3203D327E00D10AF1 /* C++ 7576.cpp */; };
 		E6B9FD09203D84D200D10AF1 /* C++ 7576 -v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6B9FD08203D84D200D10AF1 /* C++ 7576 -v2.cpp */; };
 		E6B9FD0B203E905100D10AF1 /* C++ 7569.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6B9FD0A203E905100D10AF1 /* C++ 7569.cpp */; };
+		E6CA7EA7204EB546002491B0 /* C++ hackerearth Dhoom 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6CA7EA6204EB546002491B0 /* C++ hackerearth Dhoom 4.cpp */; };
+		E6CA7EA9204FBD9C002491B0 /* C++ hackerearth Oliver and the battle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6CA7EA8204FBD9C002491B0 /* C++ hackerearth Oliver and the battle.cpp */; };
+		E6CA7EAB204FD9E2002491B0 /* C++ hackerearth happy vertices.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6CA7EAA204FD9E2002491B0 /* C++ hackerearth happy vertices.cpp */; };
+		E6E3364D20563514003C0C92 /* C++ hackerearth Feasible Relations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6E3364C20563514003C0C92 /* C++ hackerearth Feasible Relations.cpp */; };
+		E6E3364F205761E2003C0C92 /* [fail]C++ hackerearth El niNo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6E3364E205761E2003C0C92 /* [fail]C++ hackerearth El niNo.cpp */; };
+		E6E33651205766FD003C0C92 /* C++ hackerearth Matt's Graph Book.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6E33650205766FD003C0C92 /* C++ hackerearth Matt's Graph Book.cpp */; };
+		E6E336532058DBE6003C0C92 /* C++ hackerearth Monk and Graph Problem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6E336522058DBE6003C0C92 /* C++ hackerearth Monk and Graph Problem.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,19 +64,24 @@
 /* Begin PBXFileReference section */
 		E62066AE2042780200A8D0F6 /* C++ 2178.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ 2178.cpp"; sourceTree = "<group>"; };
 		E62066B0204292E000A8D0F6 /* C++ 2178-refactor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ 2178-refactor.cpp"; sourceTree = "<group>"; };
+		E62066B32043D8C800A8D0F6 /* 2606.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2606.cpp; sourceTree = "<group>"; };
+		E62066B52043EAE100A8D0F6 /* 2667.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2667.cpp; sourceTree = "<group>"; };
+		E62066CA204529E700A8D0F6 /* 10216.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10216.cpp; sourceTree = "<group>"; };
+		E62066CC20458CFA00A8D0F6 /* 10216-union.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10216-union.cpp"; sourceTree = "<group>"; };
+		E62066D02049483500A8D0F6 /* graph.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graph.cpp; sourceTree = "<group>"; };
 		E623EF5E2031B1340025C701 /* queue.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = queue.c; sourceTree = "<group>"; };
 		E623EF602031C0AE0025C701 /* 11866.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11866.c; sourceTree = "<group>"; };
 		E623EF672032D3590025C701 /* 5052.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5052.cpp; sourceTree = "<group>"; };
+		E6575CD0205172AF0084058D /* C++ hackerearth prison break.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth prison break.cpp"; sourceTree = "<group>"; };
+		E6575CD22052323D0084058D /* C++ hackerearth prison break2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth prison break2.cpp"; sourceTree = "<group>"; };
+		E6575CD42052417B0084058D /* C++ hackerearth prison break3- recur.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth prison break3- recur.cpp"; sourceTree = "<group>"; };
+		E6622D39204D243800760343 /* C++ hackearth BFS1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackearth BFS1.cpp"; sourceTree = "<group>"; };
+		E6622D3B204D2F3E00760343 /* C++ hackerearth flight plan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth flight plan.cpp"; sourceTree = "<group>"; };
 		E6B56B952025EFC700A7D714 /* C - Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C - Algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6B56B982025EFC700A7D714 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		E6B56C3F202D401A00A7D714 /* stack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = stack.c; sourceTree = "<group>"; };
 		E6B56C41202D4C7200A7D714 /* test.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = test.c; sourceTree = "<group>"; };
 		E6B56C43202D70DD00A7D714 /* practical_stack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = practical_stack.c; sourceTree = "<group>"; };
-		E6B56C46202D736000A7D714 /* refactoring2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = refactoring2.c; path = "../../C - QuickSort/C - QuickSort/refactoring2.c"; sourceTree = "<group>"; };
-		E6B56C48202D736500A7D714 /* refactoring.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = refactoring.c; path = "../../C - QuickSort/C - QuickSort/refactoring.c"; sourceTree = "<group>"; };
-		E6B56C4A202D736A00A7D714 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = main.c; path = "../../C - QuickSort/C - QuickSort/main.c"; sourceTree = "<group>"; };
-		E6B56C4C202D736E00A7D714 /* test.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = test.c; path = "../../C - QuickSort/C - QuickSort/test.c"; sourceTree = "<group>"; };
-		E6B56C4E202D737200A7D714 /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = test.h; path = "../../C - QuickSort/C - QuickSort/test.h"; sourceTree = "<group>"; };
 		E6B56C79203017F800A7D714 /* 1874.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1874.c; sourceTree = "<group>"; };
 		E6B56C7B203020AB00A7D714 /* practice.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = practice.c; sourceTree = "<group>"; };
 		E6B9FCC22034532C00D10AF1 /* binary search.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "binary search.c"; sourceTree = "<group>"; };
@@ -78,6 +96,13 @@
 		E6B9FCF3203D327E00D10AF1 /* C++ 7576.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ 7576.cpp"; sourceTree = "<group>"; };
 		E6B9FD08203D84D200D10AF1 /* C++ 7576 -v2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ 7576 -v2.cpp"; sourceTree = "<group>"; };
 		E6B9FD0A203E905100D10AF1 /* C++ 7569.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ 7569.cpp"; sourceTree = "<group>"; };
+		E6CA7EA6204EB546002491B0 /* C++ hackerearth Dhoom 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth Dhoom 4.cpp"; sourceTree = "<group>"; };
+		E6CA7EA8204FBD9C002491B0 /* C++ hackerearth Oliver and the battle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth Oliver and the battle.cpp"; sourceTree = "<group>"; };
+		E6CA7EAA204FD9E2002491B0 /* C++ hackerearth happy vertices.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth happy vertices.cpp"; sourceTree = "<group>"; };
+		E6E3364C20563514003C0C92 /* C++ hackerearth Feasible Relations.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth Feasible Relations.cpp"; sourceTree = "<group>"; };
+		E6E3364E205761E2003C0C92 /* [fail]C++ hackerearth El niNo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "[fail]C++ hackerearth El niNo.cpp"; sourceTree = "<group>"; };
+		E6E33650205766FD003C0C92 /* C++ hackerearth Matt's Graph Book.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth Matt's Graph Book.cpp"; sourceTree = "<group>"; };
+		E6E336522058DBE6003C0C92 /* C++ hackerearth Monk and Graph Problem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C++ hackerearth Monk and Graph Problem.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +116,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E62066B22043D8AD00A8D0F6 /* DFS */ = {
+			isa = PBXGroup;
+			children = (
+				E62066B32043D8C800A8D0F6 /* 2606.cpp */,
+				E62066B52043EAE100A8D0F6 /* 2667.cpp */,
+				E62066CA204529E700A8D0F6 /* 10216.cpp */,
+				E62066CC20458CFA00A8D0F6 /* 10216-union.cpp */,
+				E6CA7EAA204FD9E2002491B0 /* C++ hackerearth happy vertices.cpp */,
+				E6575CD0205172AF0084058D /* C++ hackerearth prison break.cpp */,
+				E6575CD22052323D0084058D /* C++ hackerearth prison break2.cpp */,
+				E6575CD42052417B0084058D /* C++ hackerearth prison break3- recur.cpp */,
+				E6E3364C20563514003C0C92 /* C++ hackerearth Feasible Relations.cpp */,
+				E6E3364E205761E2003C0C92 /* [fail]C++ hackerearth El niNo.cpp */,
+				E6E33650205766FD003C0C92 /* C++ hackerearth Matt's Graph Book.cpp */,
+				E6E336522058DBE6003C0C92 /* C++ hackerearth Monk and Graph Problem.cpp */,
+			);
+			path = DFS;
+			sourceTree = "<group>";
+		};
+		E62066CF2049482900A8D0F6 /* Graph */ = {
+			isa = PBXGroup;
+			children = (
+				E62066D02049483500A8D0F6 /* graph.cpp */,
+			);
+			path = Graph;
+			sourceTree = "<group>";
+		};
 		E623EF5B2031B0210025C701 /* Queue */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +174,8 @@
 		E6B56B8C2025EFC700A7D714 = {
 			isa = PBXGroup;
 			children = (
+				E62066CF2049482900A8D0F6 /* Graph */,
+				E62066B22043D8AD00A8D0F6 /* DFS */,
 				E6B9FCF0203AB0FE00D10AF1 /* BFS */,
 				E6B9FCED203AA4C700D10AF1 /* Linked_list */,
 				E6B9FCE9203A88C600D10AF1 /* C B-tree */,
@@ -130,7 +184,6 @@
 				E623EF6320328FE00025C701 /* Binary tree */,
 				E623EF5B2031B0210025C701 /* Queue */,
 				E6B56C78203017D900A7D714 /* 1874 */,
-				E6B56C45202D734900A7D714 /* Sort- quick */,
 				E6B56C3E202D400300A7D714 /* Stack */,
 				E6B56B972025EFC700A7D714 /* Sort - bubble */,
 				E6B56B962025EFC700A7D714 /* Products */,
@@ -161,18 +214,6 @@
 				E6B56C43202D70DD00A7D714 /* practical_stack.c */,
 			);
 			path = Stack;
-			sourceTree = "<group>";
-		};
-		E6B56C45202D734900A7D714 /* Sort- quick */ = {
-			isa = PBXGroup;
-			children = (
-				E6B56C4E202D737200A7D714 /* test.h */,
-				E6B56C4C202D736E00A7D714 /* test.c */,
-				E6B56C4A202D736A00A7D714 /* main.c */,
-				E6B56C48202D736500A7D714 /* refactoring.c */,
-				E6B56C46202D736000A7D714 /* refactoring2.c */,
-			);
-			path = "Sort- quick";
 			sourceTree = "<group>";
 		};
 		E6B56C78203017D900A7D714 /* 1874 */ = {
@@ -220,6 +261,10 @@
 				E6B9FD0A203E905100D10AF1 /* C++ 7569.cpp */,
 				E62066AE2042780200A8D0F6 /* C++ 2178.cpp */,
 				E62066B0204292E000A8D0F6 /* C++ 2178-refactor.cpp */,
+				E6622D39204D243800760343 /* C++ hackearth BFS1.cpp */,
+				E6622D3B204D2F3E00760343 /* C++ hackerearth flight plan.cpp */,
+				E6CA7EA6204EB546002491B0 /* C++ hackerearth Dhoom 4.cpp */,
+				E6CA7EA8204FBD9C002491B0 /* C++ hackerearth Oliver and the battle.cpp */,
 			);
 			path = BFS;
 			sourceTree = "<group>";
@@ -281,33 +326,46 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6E33651205766FD003C0C92 /* C++ hackerearth Matt's Graph Book.cpp in Sources */,
 				E62066AF2042780200A8D0F6 /* C++ 2178.cpp in Sources */,
 				E6B9FD09203D84D200D10AF1 /* C++ 7576 -v2.cpp in Sources */,
-				E6B56C49202D736500A7D714 /* refactoring.c in Sources */,
+				E6575CD1205172AF0084058D /* C++ hackerearth prison break.cpp in Sources */,
+				E62066CB204529E700A8D0F6 /* 10216.cpp in Sources */,
 				E6B9FCF4203D327E00D10AF1 /* C++ 7576.cpp in Sources */,
+				E6E3364D20563514003C0C92 /* C++ hackerearth Feasible Relations.cpp in Sources */,
 				E6B56C42202D4C7200A7D714 /* test.c in Sources */,
 				E6B56C40202D401A00A7D714 /* stack.c in Sources */,
 				E6B9FCE420385CCE00D10AF1 /* search.c in Sources */,
+				E6CA7EAB204FD9E2002491B0 /* C++ hackerearth happy vertices.cpp in Sources */,
+				E6E3364F205761E2003C0C92 /* [fail]C++ hackerearth El niNo.cpp in Sources */,
+				E6622D3C204D2F3E00760343 /* C++ hackerearth flight plan.cpp in Sources */,
+				E62066CE20458CFA00A8D0F6 /* 10216-union.cpp in Sources */,
+				E6622D3A204D243800760343 /* C++ hackearth BFS1.cpp in Sources */,
 				E6B9FCEB203A88DC00D10AF1 /* b-tree.c in Sources */,
 				E623EF5F2031B1340025C701 /* queue.c in Sources */,
 				E6B56C7A203017F800A7D714 /* 1874.c in Sources */,
 				E6B9FD0B203E905100D10AF1 /* C++ 7569.cpp in Sources */,
+				E6575CD32052323D0084058D /* C++ hackerearth prison break2.cpp in Sources */,
+				E6E336532058DBE6003C0C92 /* C++ hackerearth Monk and Graph Problem.cpp in Sources */,
 				E6B56C44202D70DD00A7D714 /* practical_stack.c in Sources */,
 				E623EF682032D3590025C701 /* 5052.cpp in Sources */,
 				E6B9FCC32034532C00D10AF1 /* binary search.c in Sources */,
 				E6B9FCE62038602500D10AF1 /* 1920.cpp in Sources */,
 				E623EF622031C0AE0025C701 /* 11866.c in Sources */,
+				E62066B42043D8C800A8D0F6 /* 2606.cpp in Sources */,
 				E6B9FCEF203AA4DA00D10AF1 /* C linked_list.c in Sources */,
+				E6CA7EA7204EB546002491B0 /* C++ hackerearth Dhoom 4.cpp in Sources */,
+				E6CA7EA9204FBD9C002491B0 /* C++ hackerearth Oliver and the battle.cpp in Sources */,
 				E6B9FCC920345E3900D10AF1 /* 2957.cpp in Sources */,
+				E62066D12049483500A8D0F6 /* graph.cpp in Sources */,
 				E6B56B992025EFC700A7D714 /* main.c in Sources */,
+				E6575CD52052417B0084058D /* C++ hackerearth prison break3- recur.cpp in Sources */,
 				E6B9FCF2203AB11C00D10AF1 /* C++ 7576_debug.cpp in Sources */,
-				E6B56C47202D736000A7D714 /* refactoring2.c in Sources */,
-				E6B56C4B202D736A00A7D714 /* main.c in Sources */,
 				E6B56C7C203020AB00A7D714 /* practice.c in Sources */,
 				E62066B1204292E000A8D0F6 /* C++ 2178-refactor.cpp in Sources */,
 				E6B9FCCC20353D2100D10AF1 /* 5639.c in Sources */,
-				E6B56C4D202D736E00A7D714 /* test.c in Sources */,
 				E6B9FCE820390F8C00D10AF1 /* 1920.c in Sources */,
+				E62066B62043EAE100A8D0F6 /* 2667.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
